@@ -71,7 +71,7 @@ Check out my work here: [**My Portfolio**](https://ganesh-udawant-ok8a6p1.gamma.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/ganesh-udawant-01b664343" target="www.linkedin.com/in/ganesh-udawant-01b664343"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-udawant-01b664343" target="https://www.linkedin.com/in/ganesh-udawant-01b664343"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:udawantganesh02@gmail.com" target="udawantganesh02@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
   <a href="https://www.instagram.com/ganesh_udawant_official?igsh=MXd3emNxb3Rsc2x0ZQ==]" target="https://www.instagram.com/ganesh_udawant_official?igsh=MXd3emNxb3Rsc2x0ZQ=="><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
 </p>
