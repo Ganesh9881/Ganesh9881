@@ -86,15 +86,6 @@ Check out my work here: [**My Portfolio**](https://ganesh-udawant-ok8a6p1.gamma.
 
 
 
-![Ganesh Udawant GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganesh9881&show_icons=true&theme=radical)
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9881&layout=compact&theme=radical)
- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ganesh9881&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
