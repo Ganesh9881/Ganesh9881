@@ -78,10 +78,6 @@ Check out my work here: [**My Portfolio**](https://ganesh-udawant-ok8a6p1.gamma.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganesh9881&show_icons=true&theme=tokyonight" alt="Ganesh Udawant github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesh9881&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 
 
