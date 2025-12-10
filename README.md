@@ -87,8 +87,6 @@ Check out my work here: [**My Portfolio**](https://ganesh-udawant-ok8a6p1.gamma.
 
 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 
 
